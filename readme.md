@@ -155,10 +155,10 @@ Skill Roadmap + Location Suggestions Displayed
 
 ## 📸 Screenshots
 
-![Home Page](home_page.png)
-![Chatbot Interface](chatbot_interface.png)
-![Result dashboard](result_dashboard.png)
-![Career Pathways](career_pathways.png)
+![Home Page](Images/home_page.png)
+![Chatbot Interface](Images/chatbot_interface.png)
+![Result dashboard](Images/result_dashboard.png)
+![Career Pathways](Images/career_pathways.png)
 
 ---
 
